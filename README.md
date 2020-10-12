@@ -1,13 +1,11 @@
 ### Hi there fellow dev's 👋
 
-Here are some ideas to get you started:
+# I am an Android Developer. 
 
-- 🔭 I’m currently working on ... my Android Projects
-- 🌱 I’m currently learning ... Node.js
-- 👯 I’m looking to collaborate on ... Android Apps
-- 🤔 I’m looking for help with ... Flutter
-- 💬 Ask me about ... Android related stuff
-- 📫 How to reach me: ... 
+- 🔭 I’m currently working on my Android Project
+- 🌱 I’m currently learning Web Development 
+- 👯 I’m looking to collaborate on any Android Apps.
+- 💬 Ask me about  anything related to Android.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/niket-jain-768971182/) | [Twitter](https://twitter.com/nikeight_)
 - 😄 Pronouns: ... He/Him 
-- ⚡ Fun fact: ... I make memes.
--->
+- ⚡ Fun fact: I am a patzer. 

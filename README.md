@@ -7,5 +7,5 @@
 - 👯 I’m looking to collaborate on any Android Apps.
 - 💬 Ask me about  anything related to Android.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/niket-jain-768971182/) | [Twitter](https://twitter.com/nikeight_)
-- 😄 Pronouns: ... He/Him 
+- 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I am a patzer. 

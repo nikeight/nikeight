@@ -2,8 +2,8 @@
 
 # I am an Android Developer. 
 
-- 🔭 I’m currently working on my Android Project.
-- 🌱 I’m currently learning Kotlin.
+- 🔭 I’m currently working on my Android Projects.
+- 🌱 I’m currently learning Jetpack Compose.
 - 👯 I’m looking to collaborate on any Android Apps.
 - 💬 Ask me about  anything related to Android.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/niket-jain-768971182/) | [Twitter](https://twitter.com/nikeight_)

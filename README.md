@@ -1,11 +1,11 @@
 ### Hi there fellow dev's 👋
 
-# I am an Android Developer. 
+# I am a Mobile App Developer. 
 
-- 🔭 I’m currently working on my Android Projects.
-- 🌱 I’m currently learning Jetpack Compose.
-- 👯 I’m looking to collaborate on any Android Apps.
-- 💬 Ask me about  anything related to Android.
+- 🔭 I’m currently working on personal Flutter and Kotlin Projects.
+- 🌱 I’m currently learning Flutter, game development, and Kotlin Multiplatform.
+- 👯 I’m looking to collaborate on any Android or Flutter apps.
+- 💬 Ask me about  anything related to Android, Flutter.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/niket-jain-768971182/) | [Twitter](https://twitter.com/nikeight_)
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I am a patzer ♟. 
@@ -14,7 +14,7 @@
 
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=50b2f3)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=50b2f3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
 
 ### 🛠️ Tools & Technologies
 
